@@ -1,6 +1,6 @@
 # competitive programming tricks, tips (c++)
 
-## String
+## String input
 
 Read whole line of string w/ whitespaces and etc ):
 ```C++
