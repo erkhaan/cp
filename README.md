@@ -2,7 +2,7 @@
 
 ## String input
 
-Read whole line of string w/ whitespaces and etc ):
+Read whole line of string w/ whitespaces and etc:
 ```C++
 string s; // {a, b, c}
 getline(cin, s);
