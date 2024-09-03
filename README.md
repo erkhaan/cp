@@ -4,3 +4,9 @@ string s; // {a, b, c}
 getline(cin, s);
 cout << s << endl; // {a, b, c}
 ```
+
+```C++
+string s; // {a, b, c}
+cin >> s;
+cout << s << endl; // {a,
+```
